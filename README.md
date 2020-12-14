@@ -1,2 +1,1 @@
-# LinearClassifiers
-Linear Classifiers in Python :rocket:
+# Linear Classifiers in Python :rocket:
